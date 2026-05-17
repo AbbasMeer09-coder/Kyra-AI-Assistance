@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Personal data - DON'T SHARE!
+venv/
+voice_profile/
+face_profile/
+kyra_memory.json
+kaira_memory.json
+.DS_Store
+__pycache__/
+*.pyc
